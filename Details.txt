@@ -1,0 +1,8 @@
+Some visual aspects of the page:
+
+Some colors: 
+  - White	#FFFFFF	rgb(255, 255, 255)
+  - SteelBlue	#4682B4	rgb(70, 130, 180)
+  - LightSteelBlue #B0C4DE rgb(176, 196, 222)
+
+Fonts: Lato from google fonts
